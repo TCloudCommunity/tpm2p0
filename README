@@ -3,7 +3,7 @@ tpm2p0
 
 TPM 2.0 Emulator on Linux
 
-The objective of the TPM2.0 Emulator project is the implementation of a software-based TPM2.0 emulator as well as of an appropriate TCG Device Driver Library (TDDL). The tpm2p0 emulator provides researchers and engineers of trusted systems.
+The objective of the TPM2.0 Emulator project is the implementation of a software-based TPM2.0 emulator under the terms of the GNU General Public License. The tpm2p0 emulator provides researchers and engineers of trusted systems.
 
 Main Authors / Maintainers
 ======
